@@ -1,0 +1,4122 @@
+{
+  "iris": {
+    "ChaosNet": [
+      {
+        "b": 0.4438284901364233,
+        "epsilon": 0.2382090150144255,
+        "q": 0.9172964844509264
+      },
+      {
+        "b": 0.30239959285796464,
+        "epsilon": 0.1654630361552656,
+        "q": 0.14290340591987782
+      },
+      {
+        "b": 0.1104299336632592,
+        "epsilon": 0.3424326223239603,
+        "q": 0.9235222820394563
+      },
+      {
+        "b": 0.5097448446778967,
+        "epsilon": 0.23920533280107933,
+        "q": 0.8566637800400944
+      },
+      {
+        "b": 0.920326855112309,
+        "epsilon": 0.06997837104872524,
+        "q": 0.925415923968396
+      },
+      {
+        "b": 0.6218205850237039,
+        "epsilon": 0.17932157198136625,
+        "q": 0.8840143537194869
+      },
+      {
+        "b": 0.4154970164525504,
+        "epsilon": 0.3370309677800959,
+        "q": 0.4554493526706494
+      },
+      {
+        "b": 0.475091596659562,
+        "epsilon": 0.1992036563388079,
+        "q": 0.16799957811312255
+      },
+      {
+        "b": 0.7348060180426361,
+        "epsilon": 0.12587944384009445,
+        "q": 0.6077138864930957
+      },
+      {
+        "b": 0.8964719685739905,
+        "epsilon": 0.1741922764621651,
+        "q": 0.9350233234018993
+      }
+    ],
+    "ChaosNet-Std": [
+      {
+        "b": 0.4438284901364233,
+        "epsilon": 0.2382090150144255,
+        "q": 0.9172964844509264
+      },
+      {
+        "b": 0.6678508349134253,
+        "epsilon": 0.19441010237849504,
+        "q": 0.06645944960977263
+      },
+      {
+        "b": 0.1104299336632592,
+        "epsilon": 0.3424326223239603,
+        "q": 0.9235222820394563
+      },
+      {
+        "b": 0.6380698122711826,
+        "epsilon": 0.07266814850412068,
+        "q": 0.3754082867563203
+      },
+      {
+        "b": 0.9040795761034066,
+        "epsilon": 0.16372309502513785,
+        "q": 0.8296603687235287
+      },
+      {
+        "b": 0.6218205850237039,
+        "epsilon": 0.17932157198136625,
+        "q": 0.8840143537194869
+      },
+      {
+        "b": 0.41374098920545527,
+        "epsilon": 0.13980377375234407,
+        "q": 0.7933399602522653
+      },
+      {
+        "b": 0.9099214907026334,
+        "epsilon": 0.11336146756007041,
+        "q": 0.0978158216056618
+      },
+      {
+        "b": 0.7348060180426361,
+        "epsilon": 0.12587944384009445,
+        "q": 0.6077138864930957
+      },
+      {
+        "b": 0.8964719685739905,
+        "epsilon": 0.1741922764621651,
+        "q": 0.9350233234018993
+      }
+    ],
+    "ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.5439321535345923,
+        "chaosfex__epsilon": 0.12714551530226445,
+        "chaosfex__q": 0.5924870384644796,
+        "clf__C": 15.119336467641,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.6678508349134253,
+        "chaosfex__epsilon": 0.19441010237849504,
+        "chaosfex__q": 0.06645944960977263,
+        "clf__C": 100.13300735281479,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.7642737089974194,
+        "chaosfex__epsilon": 0.07862595223333074,
+        "chaosfex__q": 0.19606873865208252,
+        "clf__C": 63.53446634397297,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.6380698122711826,
+        "chaosfex__epsilon": 0.07266814850412068,
+        "chaosfex__q": 0.3754082867563203,
+        "clf__C": 0.7947270940603753,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.5492667766483027,
+        "chaosfex__epsilon": 0.09224349430569098,
+        "chaosfex__q": 0.8559510494505315,
+        "clf__C": 2.8275764358789104,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9184237632737285,
+        "chaosfex__epsilon": 0.09451261370102723,
+        "chaosfex__q": 0.7849941823538258,
+        "clf__C": 18.379258428652733,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.7218596454664865,
+        "chaosfex__epsilon": 0.13122428798615285,
+        "chaosfex__q": 0.4154970164525504,
+        "clf__C": 906.8164569421298,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9099214907026334,
+        "chaosfex__epsilon": 0.11336146756007041,
+        "chaosfex__q": 0.0978158216056618,
+        "clf__C": 1.719533889116962,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.45990303989533976,
+        "chaosfex__epsilon": 0.16598932948560494,
+        "chaosfex__q": 0.9397368663023564,
+        "clf__C": 21.669963210163235,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.865649549231157,
+        "chaosfex__epsilon": 0.14819474648605327,
+        "chaosfex__q": 0.3622117583979677,
+        "clf__C": 7.147248068012239,
+        "clf__gamma": "scale"
+      }
+    ],
+    "ChaosFEX+LR": [
+      {
+        "chaosfex__b": 0.1564469832820399,
+        "chaosfex__epsilon": 0.09729300112074231,
+        "chaosfex__q": 0.1790179586681418,
+        "clf__C": 528.8647060971081
+      },
+      {
+        "chaosfex__b": 0.6678508349134253,
+        "chaosfex__epsilon": 0.19441010237849504,
+        "chaosfex__q": 0.06645944960977263,
+        "clf__C": 56.327642471977065
+      },
+      {
+        "chaosfex__b": 0.7642737089974194,
+        "chaosfex__epsilon": 0.07862595223333074,
+        "chaosfex__q": 0.19606873865208252,
+        "clf__C": 31.897873620454703
+      },
+      {
+        "chaosfex__b": 0.924442345556211,
+        "chaosfex__epsilon": 0.022700619093524232,
+        "chaosfex__q": 0.6723297598525972,
+        "clf__C": 17.88069071004047
+      },
+      {
+        "chaosfex__b": 0.5644772344532742,
+        "chaosfex__epsilon": 0.2007895046041184,
+        "chaosfex__q": 0.48896387523470686,
+        "clf__C": 112.38856099928068
+      },
+      {
+        "chaosfex__b": 0.4805051395881065,
+        "chaosfex__epsilon": 0.20531799110780374,
+        "chaosfex__q": 0.5132641703006112,
+        "clf__C": 1.7101694325244174
+      },
+      {
+        "chaosfex__b": 0.7218596454664865,
+        "chaosfex__epsilon": 0.13122428798615285,
+        "chaosfex__q": 0.4154970164525504,
+        "clf__C": 884.9102821816781
+      },
+      {
+        "chaosfex__b": 0.9099214907026334,
+        "chaosfex__epsilon": 0.11336146756007041,
+        "chaosfex__q": 0.0978158216056618,
+        "clf__C": 0.3501574930749549
+      },
+      {
+        "chaosfex__b": 0.8952837224214846,
+        "chaosfex__epsilon": 0.13090408967660752,
+        "chaosfex__q": 0.21088131410108085,
+        "clf__C": 12.549519073767987
+      },
+      {
+        "chaosfex__b": 0.865649549231157,
+        "chaosfex__epsilon": 0.14819474648605327,
+        "chaosfex__q": 0.3622117583979677,
+        "clf__C": 2.0781341056874227
+      }
+    ],
+    "MP-ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.13648856710456675,
+        "chaosfex__epsilon": 0.3218991697397391,
+        "clf__C": 7.492121411354239
+      },
+      {
+        "chaosfex__b": 0.6678508349134253,
+        "chaosfex__epsilon": 0.19441010237849504,
+        "clf__C": 0.11834587074410605
+      },
+      {
+        "chaosfex__b": 0.6806771119464406,
+        "chaosfex__epsilon": 0.3085549371572516,
+        "clf__C": 10.000770121888904
+      },
+      {
+        "chaosfex__b": 0.5097448446778967,
+        "chaosfex__epsilon": 0.23920533280107933,
+        "clf__C": 384.74444287036124
+      },
+      {
+        "chaosfex__b": 0.5649248932454738,
+        "chaosfex__epsilon": 0.20203309727978686,
+        "clf__C": 278.0079702919429
+      },
+      {
+        "chaosfex__b": 0.6218205850237039,
+        "chaosfex__epsilon": 0.17932157198136625,
+        "clf__C": 509.01485978198525
+      },
+      {
+        "chaosfex__b": 0.8467376717636346,
+        "chaosfex__epsilon": 0.32200625829107804,
+        "clf__C": 222.65598405410827
+      },
+      {
+        "chaosfex__b": 0.6884549543526916,
+        "chaosfex__epsilon": 0.06450973831310629,
+        "clf__C": 60.90344428435475
+      },
+      {
+        "chaosfex__b": 0.8360864625126346,
+        "chaosfex__epsilon": 0.31296277727621696,
+        "clf__C": 299.7630927460091
+      },
+      {
+        "chaosfex__b": 0.6749948099880124,
+        "chaosfex__epsilon": 0.18778293598307053,
+        "clf__C": 7.289099883583254
+      }
+    ],
+    "SVM-RBF": [
+      {
+        "svc__C": 25.76638574613587,
+        "svc__gamma": 0.05301709347576828
+      },
+      {
+        "svc__C": 430.9054751874309,
+        "svc__gamma": 0.0029381282022541287
+      },
+      {
+        "svc__C": 30.51654279698751,
+        "svc__gamma": 0.04422934128377859
+      },
+      {
+        "svc__C": 39.4980986766503,
+        "svc__gamma": 0.0024685186529387424
+      },
+      {
+        "svc__C": 803.7071262320874,
+        "svc__gamma": 0.00010743635758480375
+      },
+      {
+        "svc__C": 8.987621100554026,
+        "svc__gamma": 0.11447728330837212
+      },
+      {
+        "svc__C": 13.160410886450572,
+        "svc__gamma": 0.012417585037258259
+      },
+      {
+        "svc__C": 1.1851025167261413,
+        "svc__gamma": 0.03158002751964663
+      },
+      {
+        "svc__C": 16.650446929687977,
+        "svc__gamma": 0.052111081645942574
+      },
+      {
+        "svc__C": 502.11166281928257,
+        "svc__gamma": 0.000157497653714813
+      }
+    ],
+    "LogReg": [
+      {
+        "logisticregression__C": 224.2012371372442
+      },
+      {
+        "logisticregression__C": 12.921621108432513
+      },
+      {
+        "logisticregression__C": 1.9859799848850126
+      },
+      {
+        "logisticregression__C": 17.73727648250678
+      },
+      {
+        "logisticregression__C": 0.40620867542822736
+      },
+      {
+        "logisticregression__C": 324.8369675941485
+      },
+      {
+        "logisticregression__C": 227.59405236972594
+      },
+      {
+        "logisticregression__C": 0.42702705235392946
+      },
+      {
+        "logisticregression__C": 647.5062681310844
+      },
+      {
+        "logisticregression__C": 186.79038325957828
+      }
+    ],
+    "kNN": [
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 6
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 11
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 5
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 9
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 16
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 15
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 4
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 7
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 9
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 8
+      }
+    ],
+    "RandomForest": [
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": null
+      }
+    ],
+    "MLP": [
+      {
+        "mlpclassifier__alpha": 1.685978023170582e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.05373155847046796,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0005545996722241044,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.022897927453985736,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 4.906607567160318e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.04725454999671051,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 6.88058664908792e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.007831784183433456,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.031168622654226853,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 1.1002632709098874e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      }
+    ]
+  },
+  "wine": {
+    "ChaosNet": [
+      {
+        "b": 0.3950973669431999,
+        "epsilon": 0.1669080684257656,
+        "q": 0.526005427777614
+      },
+      {
+        "b": 0.6678508349134253,
+        "epsilon": 0.19441010237849504,
+        "q": 0.06645944960977263
+      },
+      {
+        "b": 0.7568016330350061,
+        "epsilon": 0.20825525071358456,
+        "q": 0.494813153643735
+      },
+      {
+        "b": 0.701545225493734,
+        "epsilon": 0.05414634447865405,
+        "q": 0.5869973971416766
+      },
+      {
+        "b": 0.9040795761034066,
+        "epsilon": 0.16372309502513785,
+        "q": 0.8296603687235287
+      },
+      {
+        "b": 0.8334347783013348,
+        "epsilon": 0.265942772371755,
+        "q": 0.05199279127919923
+      },
+      {
+        "b": 0.4085356269301549,
+        "epsilon": 0.15498607004385867,
+        "q": 0.7382758851504204
+      },
+      {
+        "b": 0.9099214907026334,
+        "epsilon": 0.11336146756007041,
+        "q": 0.0978158216056618
+      },
+      {
+        "b": 0.7348060180426361,
+        "epsilon": 0.12587944384009445,
+        "q": 0.6077138864930957
+      },
+      {
+        "b": 0.8964719685739905,
+        "epsilon": 0.1741922764621651,
+        "q": 0.9350233234018993
+      }
+    ],
+    "ChaosNet-Std": [
+      {
+        "b": 0.2881000508941643,
+        "epsilon": 0.15684457390372808,
+        "q": 0.4605352989948937
+      },
+      {
+        "b": 0.2340070247583657,
+        "epsilon": 0.22692015561459153,
+        "q": 0.07464883387813355
+      },
+      {
+        "b": 0.7568016330350061,
+        "epsilon": 0.20825525071358456,
+        "q": 0.494813153643735
+      },
+      {
+        "b": 0.2575257839195666,
+        "epsilon": 0.11686603994573674,
+        "q": 0.6354291723923656
+      },
+      {
+        "b": 0.8642008298690304,
+        "epsilon": 0.042177193839042594,
+        "q": 0.34805705278201043
+      },
+      {
+        "b": 0.93706196252377,
+        "epsilon": 0.025122584692860033,
+        "q": 0.7722471967365833
+      },
+      {
+        "b": 0.9412018442360748,
+        "epsilon": 0.1844662175704967,
+        "q": 0.4218808413345627
+      },
+      {
+        "b": 0.9051165503722811,
+        "epsilon": 0.02267792507035666,
+        "q": 0.5436409273124274
+      },
+      {
+        "b": 0.9345834918980904,
+        "epsilon": 0.015754982336814192,
+        "q": 0.3399177138837614
+      },
+      {
+        "b": 0.5654838340124684,
+        "epsilon": 0.24354773492903742,
+        "q": 0.650209075627673
+      }
+    ],
+    "ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.9172964844509264,
+        "chaosfex__epsilon": 0.03908947126601931,
+        "chaosfex__q": 0.7625525342743982,
+        "clf__C": 13.049073550362385,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9121005771354518,
+        "chaosfex__epsilon": 0.06656462334250943,
+        "chaosfex__q": 0.6726894025554261,
+        "clf__C": 1.8283634209844517,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9180959720803297,
+        "chaosfex__epsilon": 0.05916255652250149,
+        "chaosfex__q": 0.8505680575515305,
+        "clf__C": 2.3251694632928044,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.46191775939068014,
+        "chaosfex__epsilon": 0.21316844445956853,
+        "chaosfex__q": 0.5776276140210393,
+        "clf__C": 1.361292493532444,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.4425319821918179,
+        "chaosfex__epsilon": 0.29193457561686026,
+        "chaosfex__q": 0.7576753873415549,
+        "clf__C": 291.84831775054175,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.6798592527139018,
+        "chaosfex__epsilon": 0.15981721623238623,
+        "chaosfex__q": 0.07063978319517333,
+        "clf__C": 20.448028063559338,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8267273663894077,
+        "chaosfex__epsilon": 0.07283002500065476,
+        "chaosfex__q": 0.5420370436488371,
+        "clf__C": 2.9600471965675235,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9099214907026334,
+        "chaosfex__epsilon": 0.11336146756007041,
+        "chaosfex__q": 0.0978158216056618,
+        "clf__C": 1.719533889116962,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.7348060180426361,
+        "chaosfex__epsilon": 0.12587944384009445,
+        "chaosfex__q": 0.6077138864930957,
+        "clf__C": 5.062523846238367,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.5189762403138176,
+        "chaosfex__epsilon": 0.2883654526532784,
+        "chaosfex__q": 0.6345864168444286,
+        "clf__C": 277.5413477471222,
+        "clf__gamma": "scale"
+      }
+    ],
+    "ChaosFEX+LR": [
+      {
+        "chaosfex__b": 0.9172964844509264,
+        "chaosfex__epsilon": 0.03908947126601931,
+        "chaosfex__q": 0.7625525342743982,
+        "clf__C": 4.410365667970983
+      },
+      {
+        "chaosfex__b": 0.6678508349134253,
+        "chaosfex__epsilon": 0.19441010237849504,
+        "chaosfex__q": 0.06645944960977263,
+        "clf__C": 56.327642471977065
+      },
+      {
+        "chaosfex__b": 0.7702325160193282,
+        "chaosfex__epsilon": 0.08496627635110154,
+        "chaosfex__q": 0.7384638744065134,
+        "clf__C": 0.07016608301151034
+      },
+      {
+        "chaosfex__b": 0.46191775939068014,
+        "chaosfex__epsilon": 0.21316844445956853,
+        "chaosfex__q": 0.5776276140210393,
+        "clf__C": 0.2614805032593474
+      },
+      {
+        "chaosfex__b": 0.920326855112309,
+        "chaosfex__epsilon": 0.06997837104872524,
+        "chaosfex__q": 0.925415923968396,
+        "clf__C": 37.50420538742867
+      },
+      {
+        "chaosfex__b": 0.6798592527139018,
+        "chaosfex__epsilon": 0.15981721623238623,
+        "chaosfex__q": 0.07063978319517333,
+        "clf__C": 7.732399617061104
+      },
+      {
+        "chaosfex__b": 0.8267273663894077,
+        "chaosfex__epsilon": 0.07283002500065476,
+        "chaosfex__q": 0.5420370436488371,
+        "clf__C": 0.690435788302669
+      },
+      {
+        "chaosfex__b": 0.9099214907026334,
+        "chaosfex__epsilon": 0.11336146756007041,
+        "chaosfex__q": 0.0978158216056618,
+        "clf__C": 0.3501574930749549
+      },
+      {
+        "chaosfex__b": 0.8952837224214846,
+        "chaosfex__epsilon": 0.13090408967660752,
+        "chaosfex__q": 0.21088131410108085,
+        "clf__C": 12.549519073767987
+      },
+      {
+        "chaosfex__b": 0.8964719685739905,
+        "chaosfex__epsilon": 0.1741922764621651,
+        "chaosfex__q": 0.9350233234018993,
+        "clf__C": 0.07049872910049816
+      }
+    ],
+    "MP-ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.7503410758548655,
+        "chaosfex__epsilon": 0.22047429182692038,
+        "clf__C": 821.2461922256862
+      },
+      {
+        "chaosfex__b": 0.5778995364517937,
+        "chaosfex__epsilon": 0.24826416017009,
+        "clf__C": 0.3547307332246855
+      },
+      {
+        "chaosfex__b": 0.7568016330350061,
+        "chaosfex__epsilon": 0.20825525071358456,
+        "clf__C": 9.483034914203461
+      },
+      {
+        "chaosfex__b": 0.9283958802256405,
+        "chaosfex__epsilon": 0.10919585358185878,
+        "clf__C": 408.6358209541233
+      },
+      {
+        "chaosfex__b": 0.2709083377247919,
+        "chaosfex__epsilon": 0.135261479502455,
+        "clf__C": 378.9702945336469
+      },
+      {
+        "chaosfex__b": 0.6185894474639709,
+        "chaosfex__epsilon": 0.18238071835111475,
+        "clf__C": 18.379258428652733
+      },
+      {
+        "chaosfex__b": 0.6967735129077749,
+        "chaosfex__epsilon": 0.17322314989418294,
+        "clf__C": 88.23209173398365
+      },
+      {
+        "chaosfex__b": 0.21240645728241347,
+        "chaosfex__epsilon": 0.13942413819775176,
+        "clf__C": 4.892109559632577
+      },
+      {
+        "chaosfex__b": 0.8956859354970573,
+        "chaosfex__epsilon": 0.286119504512926,
+        "clf__C": 3.154670612201905
+      },
+      {
+        "chaosfex__b": 0.5430540047418334,
+        "chaosfex__epsilon": 0.12150544462335063,
+        "clf__C": 3.5148652371050937
+      }
+    ],
+    "SVM-RBF": [
+      {
+        "svc__C": 61.73405204074311,
+        "svc__gamma": 0.00020004484210638866
+      },
+      {
+        "svc__C": 0.5559565426712567,
+        "svc__gamma": 0.005343227125594123
+      },
+      {
+        "svc__C": 0.6585587677899398,
+        "svc__gamma": 0.12484030808286077
+      },
+      {
+        "svc__C": 1.0889546346648185,
+        "svc__gamma": 0.011898877269941845
+      },
+      {
+        "svc__C": 61.789587850507324,
+        "svc__gamma": 0.0012035038333279345
+      },
+      {
+        "svc__C": 25.102489061258154,
+        "svc__gamma": 0.002133514445359739
+      },
+      {
+        "svc__C": 192.7154317116273,
+        "svc__gamma": 0.00016161554408462646
+      },
+      {
+        "svc__C": 0.8340873144110834,
+        "svc__gamma": 0.05526492642547781
+      },
+      {
+        "svc__C": 2.1631975482828354,
+        "svc__gamma": 0.0012416674721579955
+      },
+      {
+        "svc__C": 2.4412250353516844,
+        "svc__gamma": 0.020781341056874236
+      }
+    ],
+    "LogReg": [
+      {
+        "logisticregression__C": 99.01912249089663
+      },
+      {
+        "logisticregression__C": 20.986835607646608
+      },
+      {
+        "logisticregression__C": 0.41301841228098785
+      },
+      {
+        "logisticregression__C": 0.4414271712959385
+      },
+      {
+        "logisticregression__C": 1.920407949491019
+      },
+      {
+        "logisticregression__C": 0.021476278468768907
+      },
+      {
+        "logisticregression__C": 0.09814740734770341
+      },
+      {
+        "logisticregression__C": 0.42702705235392946
+      },
+      {
+        "logisticregression__C": 0.024909784355898974
+      },
+      {
+        "logisticregression__C": 0.11830193284783072
+      }
+    ],
+    "kNN": [
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 25
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 21
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 19
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 23
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 15
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 17
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 15
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 5
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 22
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 19
+      }
+    ],
+    "RandomForest": [
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 4
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      }
+    ],
+    "MLP": [
+      {
+        "mlpclassifier__alpha": 0.003120719877010642,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0001619311091244073,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0005511750757691414,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0005600770399424079,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.006218432774035597,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 7.726319876517107e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 6.88058664908792e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 2.019450244810227e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0004052289393762666,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 1.1002632709098874e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      }
+    ]
+  },
+  "breast_cancer": {
+    "ChaosNet": [
+      {
+        "b": 0.3950973669431999,
+        "epsilon": 0.1669080684257656,
+        "q": 0.526005427777614
+      },
+      {
+        "b": 0.17534871252568268,
+        "epsilon": 0.17646845693819854,
+        "q": 0.40790915328698024
+      },
+      {
+        "b": 0.5320437561478907,
+        "epsilon": 0.2969223541317515,
+        "q": 0.539787344133292
+      },
+      {
+        "b": 0.2575257839195666,
+        "epsilon": 0.11686603994573674,
+        "q": 0.6354291723923656
+      },
+      {
+        "b": 0.5251179410761283,
+        "epsilon": 0.2803330628669521,
+        "q": 0.5195265102004623
+      },
+      {
+        "b": 0.739317070832284,
+        "epsilon": 0.0631644397881424,
+        "q": 0.31712045141859974
+      },
+      {
+        "b": 0.4085356269301549,
+        "epsilon": 0.15498607004385867,
+        "q": 0.7382758851504204
+      },
+      {
+        "b": 0.7253688731918314,
+        "epsilon": 0.1078951607738108,
+        "q": 0.47097757377048266
+      },
+      {
+        "b": 0.7348060180426361,
+        "epsilon": 0.12587944384009445,
+        "q": 0.6077138864930957
+      },
+      {
+        "b": 0.05933673849712996,
+        "epsilon": 0.059556411230093795,
+        "q": 0.4961959638207315
+      }
+    ],
+    "ChaosNet-Std": [
+      {
+        "b": 0.9002020253446256,
+        "epsilon": 0.06393951204298283,
+        "q": 0.42319574599147125
+      },
+      {
+        "b": 0.2340070247583657,
+        "epsilon": 0.22692015561459153,
+        "q": 0.07464883387813355
+      },
+      {
+        "b": 0.7702325160193282,
+        "epsilon": 0.08496627635110154,
+        "q": 0.7384638744065134
+      },
+      {
+        "b": 0.9283958802256405,
+        "epsilon": 0.10919585358185878,
+        "q": 0.8625506976845583
+      },
+      {
+        "b": 0.5219636720616261,
+        "epsilon": 0.09649695355160431,
+        "q": 0.4113458992312456
+      },
+      {
+        "b": 0.8334347783013348,
+        "epsilon": 0.265942772371755,
+        "q": 0.05199279127919923
+      },
+      {
+        "b": 0.4122252581330957,
+        "epsilon": 0.14212266521072,
+        "q": 0.7016635106705196
+      },
+      {
+        "b": 0.7253688731918314,
+        "epsilon": 0.1078951607738108,
+        "q": 0.47097757377048266
+      },
+      {
+        "b": 0.7348060180426361,
+        "epsilon": 0.12587944384009445,
+        "q": 0.6077138864930957
+      },
+      {
+        "b": 0.5654838340124684,
+        "epsilon": 0.24354773492903742,
+        "q": 0.650209075627673
+      }
+    ],
+    "ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.9172964844509264,
+        "chaosfex__epsilon": 0.03908947126601931,
+        "chaosfex__q": 0.7625525342743982,
+        "clf__C": 13.049073550362385,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8630415685060284,
+        "chaosfex__epsilon": 0.07687766128358967,
+        "chaosfex__q": 0.052583294328043075,
+        "clf__C": 29.415731618103017,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9180959720803297,
+        "chaosfex__epsilon": 0.05916255652250149,
+        "chaosfex__q": 0.8505680575515305,
+        "clf__C": 2.3251694632928044,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.46191775939068014,
+        "chaosfex__epsilon": 0.21316844445956853,
+        "chaosfex__q": 0.5776276140210393,
+        "clf__C": 1.361292493532444,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.4425319821918179,
+        "chaosfex__epsilon": 0.29193457561686026,
+        "chaosfex__q": 0.7576753873415549,
+        "clf__C": 291.84831775054175,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.6798592527139018,
+        "chaosfex__epsilon": 0.15981721623238623,
+        "chaosfex__q": 0.07063978319517333,
+        "clf__C": 20.448028063559338,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.2800526500407516,
+        "chaosfex__epsilon": 0.10877959604666723,
+        "chaosfex__q": 0.5891053218252049,
+        "clf__C": 74.01650636614661,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9099214907026334,
+        "chaosfex__epsilon": 0.11336146756007041,
+        "chaosfex__q": 0.0978158216056618,
+        "clf__C": 1.719533889116962,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.7348060180426361,
+        "chaosfex__epsilon": 0.12587944384009445,
+        "chaosfex__q": 0.6077138864930957,
+        "clf__C": 5.062523846238367,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8582064064026347,
+        "chaosfex__epsilon": 0.10708715799337633,
+        "chaosfex__q": 0.5430540047418334,
+        "clf__C": 64.52227863024561,
+        "clf__gamma": "scale"
+      }
+    ],
+    "ChaosFEX+LR": [
+      {
+        "chaosfex__b": 0.9172964844509264,
+        "chaosfex__epsilon": 0.03908947126601931,
+        "chaosfex__q": 0.7625525342743982,
+        "clf__C": 4.410365667970983
+      },
+      {
+        "chaosfex__b": 0.9121005771354518,
+        "chaosfex__epsilon": 0.06656462334250943,
+        "chaosfex__q": 0.6726894025554261,
+        "clf__C": 0.3780751690612245
+      },
+      {
+        "chaosfex__b": 0.9180959720803297,
+        "chaosfex__epsilon": 0.05916255652250149,
+        "chaosfex__q": 0.8505680575515305,
+        "clf__C": 0.5105852485733559
+      },
+      {
+        "chaosfex__b": 0.30517257359418687,
+        "chaosfex__epsilon": 0.11755797865103183,
+        "chaosfex__q": 0.4464083459036655,
+        "clf__C": 0.06086094512941708
+      },
+      {
+        "chaosfex__b": 0.8642008298690304,
+        "chaosfex__epsilon": 0.042177193839042594,
+        "chaosfex__q": 0.34805705278201043,
+        "clf__C": 7.255942815464052
+      },
+      {
+        "chaosfex__b": 0.6798592527139018,
+        "chaosfex__epsilon": 0.15981721623238623,
+        "chaosfex__q": 0.07063978319517333,
+        "clf__C": 7.732399617061104
+      },
+      {
+        "chaosfex__b": 0.8936145811804141,
+        "chaosfex__epsilon": 0.034931579317617874,
+        "chaosfex__q": 0.2782706877242564,
+        "clf__C": 1.0288748353194759
+      },
+      {
+        "chaosfex__b": 0.9099214907026334,
+        "chaosfex__epsilon": 0.11336146756007041,
+        "chaosfex__q": 0.0978158216056618,
+        "clf__C": 0.3501574930749549
+      },
+      {
+        "chaosfex__b": 0.3928630002834677,
+        "chaosfex__epsilon": 0.15132658785183392,
+        "chaosfex__q": 0.8949235219796946,
+        "clf__C": 0.39668792626623617
+      },
+      {
+        "chaosfex__b": 0.5994839667633165,
+        "chaosfex__epsilon": 0.05838385148150105,
+        "chaosfex__q": 0.4801766121845122,
+        "clf__C": 1.5058347803061085
+      }
+    ],
+    "MP-ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.7692427077950513,
+        "chaosfex__epsilon": 0.05158881312074175,
+        "clf__C": 132.46974647468423
+      },
+      {
+        "chaosfex__b": 0.64741518069781,
+        "chaosfex__epsilon": 0.06237690529598346,
+        "clf__C": 600.3147633638406
+      },
+      {
+        "chaosfex__b": 0.29014454759257996,
+        "chaosfex__epsilon": 0.09100660272077526,
+        "clf__C": 13.07881440940143
+      },
+      {
+        "chaosfex__b": 0.5401841162286602,
+        "chaosfex__epsilon": 0.16027252993731025,
+        "clf__C": 1.6805604143357784
+      },
+      {
+        "chaosfex__b": 0.4386398642071049,
+        "chaosfex__epsilon": 0.19136694299181609,
+        "clf__C": 4.64627829314116
+      },
+      {
+        "chaosfex__b": 0.6185894474639709,
+        "chaosfex__epsilon": 0.18238071835111475,
+        "clf__C": 18.379258428652733
+      },
+      {
+        "chaosfex__b": 0.6967735129077749,
+        "chaosfex__epsilon": 0.17322314989418294,
+        "clf__C": 88.23209173398365
+      },
+      {
+        "chaosfex__b": 0.4338082154164481,
+        "chaosfex__epsilon": 0.09539501555034015,
+        "clf__C": 12.348801342720343
+      },
+      {
+        "chaosfex__b": 0.5861752212866232,
+        "chaosfex__epsilon": 0.10523164318620945,
+        "clf__C": 11.023558750034624
+      },
+      {
+        "chaosfex__b": 0.4671812425856518,
+        "chaosfex__epsilon": 0.08764190633597892,
+        "clf__C": 9.663331331874755
+      }
+    ],
+    "SVM-RBF": [
+      {
+        "svc__C": 2.7417736752420936,
+        "svc__gamma": 0.015316508243748705
+      },
+      {
+        "svc__C": 58.54751355295719,
+        "svc__gamma": 0.003780751690612245
+      },
+      {
+        "svc__C": 4.802542406217432,
+        "svc__gamma": 0.004484087772907755
+      },
+      {
+        "svc__C": 22.13153913197805,
+        "svc__gamma": 0.0026148050325934757
+      },
+      {
+        "svc__C": 1.0278493120340684,
+        "svc__gamma": 0.014926488889274855
+      },
+      {
+        "svc__C": 25.102489061258154,
+        "svc__gamma": 0.002133514445359739
+      },
+      {
+        "svc__C": 6.3386551214906035,
+        "svc__gamma": 0.007396770950816903
+      },
+      {
+        "svc__C": 6.476967683745715,
+        "svc__gamma": 0.005819582506376546
+      },
+      {
+        "svc__C": 5.270784658374335,
+        "svc__gamma": 0.010274407822199887
+      },
+      {
+        "svc__C": 27.679036182714814,
+        "svc__gamma": 0.030297625168963328
+      }
+    ],
+    "LogReg": [
+      {
+        "logisticregression__C": 0.348280208702833
+      },
+      {
+        "logisticregression__C": 0.3177840006884068
+      },
+      {
+        "logisticregression__C": 1.075168521483853
+      },
+      {
+        "logisticregression__C": 0.3094618960222633
+      },
+      {
+        "logisticregression__C": 0.40620867542822736
+      },
+      {
+        "logisticregression__C": 0.8520540258345194
+      },
+      {
+        "logisticregression__C": 0.42545002807676846
+      },
+      {
+        "logisticregression__C": 0.5161117790053158
+      },
+      {
+        "logisticregression__C": 0.3826598613001059
+      },
+      {
+        "logisticregression__C": 0.9432781156898074
+      }
+    ],
+    "kNN": [
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 6
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 16
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 2
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 6
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 4
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 3
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 4
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 5
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 6
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 4
+      }
+    ],
+    "RandomForest": [
+      {
+        "max_features": 0.5,
+        "max_depth": 4
+      },
+      {
+        "max_features": 0.5,
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": 0.5,
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": 0.5,
+        "max_depth": 4
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 4
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 4
+      }
+    ],
+    "MLP": [
+      {
+        "mlpclassifier__alpha": 0.022096070868729552,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.032029975700290474,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.05323085761913014,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 3.179371243562202e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.021929403990392702,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 5.634883151169031e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.010472536645057004,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.053066944048916216,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0013286872459026698,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 1.1002632709098874e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      }
+    ]
+  },
+  "digits": {
+    "ChaosNet": [
+      {
+        "b": 0.5612401049845391,
+        "epsilon": 0.2686483584176177,
+        "q": 0.11393245237809825
+      },
+      {
+        "b": 0.30239959285796464,
+        "epsilon": 0.1654630361552656,
+        "q": 0.14290340591987782
+      },
+      {
+        "b": 0.7702325160193282,
+        "epsilon": 0.08496627635110154,
+        "q": 0.7384638744065134
+      },
+      {
+        "b": 0.5097448446778967,
+        "epsilon": 0.23920533280107933,
+        "q": 0.8566637800400944
+      },
+      {
+        "b": 0.8266939120393001,
+        "epsilon": 0.32994196793593283,
+        "q": 0.19745801726422885
+      },
+      {
+        "b": 0.8713640873334049,
+        "epsilon": 0.18774305306997632,
+        "q": 0.1347824589595904
+      },
+      {
+        "b": 0.8386408896859647,
+        "epsilon": 0.1870426367202509,
+        "q": 0.09902705704011917
+      },
+      {
+        "b": 0.9099214907026334,
+        "epsilon": 0.11336146756007041,
+        "q": 0.0978158216056618
+      },
+      {
+        "b": 0.7348060180426361,
+        "epsilon": 0.12587944384009445,
+        "q": 0.6077138864930957
+      },
+      {
+        "b": 0.8964719685739905,
+        "epsilon": 0.1741922764621651,
+        "q": 0.9350233234018993
+      }
+    ],
+    "ChaosNet-Std": [
+      {
+        "b": 0.5612401049845391,
+        "epsilon": 0.2686483584176177,
+        "q": 0.11393245237809825
+      },
+      {
+        "b": 0.30239959285796464,
+        "epsilon": 0.1654630361552656,
+        "q": 0.14290340591987782
+      },
+      {
+        "b": 0.7702325160193282,
+        "epsilon": 0.08496627635110154,
+        "q": 0.7384638744065134
+      },
+      {
+        "b": 0.5097448446778967,
+        "epsilon": 0.23920533280107933,
+        "q": 0.8566637800400944
+      },
+      {
+        "b": 0.920326855112309,
+        "epsilon": 0.06997837104872524,
+        "q": 0.925415923968396
+      },
+      {
+        "b": 0.8334347783013348,
+        "epsilon": 0.265942772371755,
+        "q": 0.05199279127919923
+      },
+      {
+        "b": 0.8386408896859647,
+        "epsilon": 0.1870426367202509,
+        "q": 0.09902705704011917
+      },
+      {
+        "b": 0.9099214907026334,
+        "epsilon": 0.11336146756007041,
+        "q": 0.0978158216056618
+      },
+      {
+        "b": 0.8360864625126346,
+        "epsilon": 0.31296277727621696,
+        "q": 0.832275086192528
+      },
+      {
+        "b": 0.8964719685739905,
+        "epsilon": 0.1741922764621651,
+        "q": 0.9350233234018993
+      }
+    ],
+    "ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.4605352989948937,
+        "chaosfex__epsilon": 0.07545720174250525,
+        "chaosfex__q": 0.06691082039271963,
+        "clf__C": 29.548945587266825,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8630415685060284,
+        "chaosfex__epsilon": 0.07687766128358967,
+        "chaosfex__q": 0.052583294328043075,
+        "clf__C": 29.415731618103017,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9180959720803297,
+        "chaosfex__epsilon": 0.05916255652250149,
+        "chaosfex__q": 0.8505680575515305,
+        "clf__C": 2.3251694632928044,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8536522589128893,
+        "chaosfex__epsilon": 0.2420680752440569,
+        "chaosfex__q": 0.16302677941745264,
+        "clf__C": 0.6744837836372597,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.920326855112309,
+        "chaosfex__epsilon": 0.06997837104872524,
+        "chaosfex__q": 0.925415923968396,
+        "clf__C": 72.32092541230126,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.6798592527139018,
+        "chaosfex__epsilon": 0.15981721623238623,
+        "chaosfex__q": 0.07063978319517333,
+        "clf__C": 20.448028063559338,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.4085356269301549,
+        "chaosfex__epsilon": 0.15498607004385867,
+        "chaosfex__q": 0.7382758851504204,
+        "clf__C": 1.3659585919810389,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9099214907026334,
+        "chaosfex__epsilon": 0.11336146756007041,
+        "chaosfex__q": 0.0978158216056618,
+        "clf__C": 1.719533889116962,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.7080425887825965,
+        "chaosfex__epsilon": 0.2824132982265485,
+        "chaosfex__q": 0.8989863660168816,
+        "clf__C": 3.154670612201905,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.5189762403138176,
+        "chaosfex__epsilon": 0.2883654526532784,
+        "chaosfex__q": 0.6345864168444286,
+        "clf__C": 277.5413477471222,
+        "clf__gamma": "scale"
+      }
+    ],
+    "ChaosFEX+LR": [
+      {
+        "chaosfex__b": 0.5612401049845391,
+        "chaosfex__epsilon": 0.2686483584176177,
+        "chaosfex__q": 0.11393245237809825,
+        "clf__C": 0.0272675738800873
+      },
+      {
+        "chaosfex__b": 0.8630415685060284,
+        "chaosfex__epsilon": 0.07687766128358967,
+        "chaosfex__q": 0.052583294328043075,
+        "clf__C": 12.182167542616241
+      },
+      {
+        "chaosfex__b": 0.5320437561478907,
+        "chaosfex__epsilon": 0.2969223541317515,
+        "chaosfex__q": 0.539787344133292,
+        "clf__C": 0.025732063317528246
+      },
+      {
+        "chaosfex__b": 0.8536522589128893,
+        "chaosfex__epsilon": 0.2420680752440569,
+        "chaosfex__q": 0.16302677941745264,
+        "clf__C": 0.10869620730769536
+      },
+      {
+        "chaosfex__b": 0.920326855112309,
+        "chaosfex__epsilon": 0.06997837104872524,
+        "chaosfex__q": 0.925415923968396,
+        "clf__C": 37.50420538742867
+      },
+      {
+        "chaosfex__b": 0.6798592527139018,
+        "chaosfex__epsilon": 0.15981721623238623,
+        "chaosfex__q": 0.07063978319517333,
+        "clf__C": 7.732399617061104
+      },
+      {
+        "chaosfex__b": 0.8467376717636346,
+        "chaosfex__epsilon": 0.32200625829107804,
+        "chaosfex__q": 0.8032177336164643,
+        "clf__C": 0.08019053860064128
+      },
+      {
+        "chaosfex__b": 0.9099214907026334,
+        "chaosfex__epsilon": 0.11336146756007041,
+        "chaosfex__q": 0.0978158216056618,
+        "clf__C": 0.3501574930749549
+      },
+      {
+        "chaosfex__b": 0.36091545079808035,
+        "chaosfex__epsilon": 0.33152794207708575,
+        "chaosfex__q": 0.07585884406696586,
+        "clf__C": 0.5733551018947314
+      },
+      {
+        "chaosfex__b": 0.8964719685739905,
+        "chaosfex__epsilon": 0.1741922764621651,
+        "chaosfex__q": 0.9350233234018993,
+        "clf__C": 0.07049872910049816
+      }
+    ],
+    "MP-ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.4438284901364233,
+        "chaosfex__epsilon": 0.2382090150144255,
+        "clf__C": 715.5682161754861
+      },
+      {
+        "chaosfex__b": 0.45310417355831467,
+        "chaosfex__epsilon": 0.2528909463213654,
+        "clf__C": 1.4943646773788355
+      },
+      {
+        "chaosfex__b": 0.7568016330350061,
+        "chaosfex__epsilon": 0.20825525071358456,
+        "clf__C": 9.483034914203461
+      },
+      {
+        "chaosfex__b": 0.5097448446778967,
+        "chaosfex__epsilon": 0.23920533280107933,
+        "clf__C": 384.74444287036124
+      },
+      {
+        "chaosfex__b": 0.5649248932454738,
+        "chaosfex__epsilon": 0.20203309727978686,
+        "clf__C": 278.0079702919429
+      },
+      {
+        "chaosfex__b": 0.4725395345818196,
+        "chaosfex__epsilon": 0.32768345515574543,
+        "clf__C": 3.9425682087079728
+      },
+      {
+        "chaosfex__b": 0.4154970164525504,
+        "chaosfex__epsilon": 0.3370309677800959,
+        "clf__C": 6.3386551214906035
+      },
+      {
+        "chaosfex__b": 0.9184738995825142,
+        "chaosfex__epsilon": 0.2878848182389888,
+        "clf__C": 247.5161398519196
+      },
+      {
+        "chaosfex__b": 0.8956859354970573,
+        "chaosfex__epsilon": 0.286119504512926,
+        "clf__C": 3.154670612201905
+      },
+      {
+        "chaosfex__b": 0.8964719685739905,
+        "chaosfex__epsilon": 0.1741922764621651,
+        "clf__C": 857.9006421416103
+      }
+    ],
+    "SVM-RBF": [
+      {
+        "svc__C": 2.7417736752420936,
+        "svc__gamma": 0.015316508243748705
+      },
+      {
+        "svc__C": 430.9054751874309,
+        "svc__gamma": 0.0029381282022541287
+      },
+      {
+        "svc__C": 15.799738953604928,
+        "svc__gamma": 0.015017995265951541
+      },
+      {
+        "svc__C": 22.13153913197805,
+        "svc__gamma": 0.0026148050325934757
+      },
+      {
+        "svc__C": 55.80438414827955,
+        "svc__gamma": 0.0018552320712403975
+      },
+      {
+        "svc__C": 843.0919651961899,
+        "svc__gamma": 0.009879250998094887
+      },
+      {
+        "svc__C": 13.160410886450572,
+        "svc__gamma": 0.012417585037258259
+      },
+      {
+        "svc__C": 118.73808109148058,
+        "svc__gamma": 0.003715124617986915
+      },
+      {
+        "svc__C": 5.369127672328117,
+        "svc__gamma": 0.0022424806690085185
+      },
+      {
+        "svc__C": 857.9006421416103,
+        "svc__gamma": 0.0007049872910049818
+      }
+    ],
+    "LogReg": [
+      {
+        "logisticregression__C": 0.5873218708481507
+      },
+      {
+        "logisticregression__C": 0.2402176120243161
+      },
+      {
+        "logisticregression__C": 0.9234662423936655
+      },
+      {
+        "logisticregression__C": 1.1613567037801698
+      },
+      {
+        "logisticregression__C": 0.40620867542822736
+      },
+      {
+        "logisticregression__C": 3.0131923845353383
+      },
+      {
+        "logisticregression__C": 0.42545002807676846
+      },
+      {
+        "logisticregression__C": 1.9540672921111013
+      },
+      {
+        "logisticregression__C": 5.225075577378781
+      },
+      {
+        "logisticregression__C": 0.3243762756125222
+      }
+    ],
+    "kNN": [
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 8
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 2
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 3
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 5
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 4
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 3
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 4
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 5
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 4
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 4
+      }
+    ],
+    "RandomForest": [
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      }
+    ],
+    "MLP": [
+      {
+        "mlpclassifier__alpha": 0.01772861933751491,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0014297724879798392,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.07560136264099328,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.08016442648861634,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.021929403990392702,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.021150047111665127,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.06770007999922623,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.001010373285001627,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 9.073154444442372e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 1.1002632709098874e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      }
+    ]
+  },
+  "moons": {
+    "ChaosNet": [
+      {
+        "b": 0.5612401049845391,
+        "epsilon": 0.2686483584176177,
+        "q": 0.11393245237809825
+      },
+      {
+        "b": 0.5778995364517937,
+        "epsilon": 0.24826416017009,
+        "q": 0.17372723373161378
+      },
+      {
+        "b": 0.7642737089974194,
+        "epsilon": 0.07862595223333074,
+        "q": 0.19606873865208252
+      },
+      {
+        "b": 0.5097448446778967,
+        "epsilon": 0.23920533280107933,
+        "q": 0.8566637800400944
+      },
+      {
+        "b": 0.9040795761034066,
+        "epsilon": 0.16372309502513785,
+        "q": 0.8296603687235287
+      },
+      {
+        "b": 0.8334347783013348,
+        "epsilon": 0.265942772371755,
+        "q": 0.05199279127919923
+      },
+      {
+        "b": 0.8386408896859647,
+        "epsilon": 0.1870426367202509,
+        "q": 0.09902705704011917
+      },
+      {
+        "b": 0.9099214907026334,
+        "epsilon": 0.11336146756007041,
+        "q": 0.0978158216056618
+      },
+      {
+        "b": 0.7348060180426361,
+        "epsilon": 0.12587944384009445,
+        "q": 0.6077138864930957
+      },
+      {
+        "b": 0.8964719685739905,
+        "epsilon": 0.1741922764621651,
+        "q": 0.9350233234018993
+      }
+    ],
+    "ChaosNet-Std": [
+      {
+        "b": 0.9290849793713035,
+        "epsilon": 0.08588605184271239,
+        "q": 0.7153372214584716
+      },
+      {
+        "b": 0.2340070247583657,
+        "epsilon": 0.22692015561459153,
+        "q": 0.07464883387813355
+      },
+      {
+        "b": 0.1104299336632592,
+        "epsilon": 0.3424326223239603,
+        "q": 0.9235222820394563
+      },
+      {
+        "b": 0.9283958802256405,
+        "epsilon": 0.10919585358185878,
+        "q": 0.8625506976845583
+      },
+      {
+        "b": 0.9040795761034066,
+        "epsilon": 0.16372309502513785,
+        "q": 0.8296603687235287
+      },
+      {
+        "b": 0.8713640873334049,
+        "epsilon": 0.18774305306997632,
+        "q": 0.1347824589595904
+      },
+      {
+        "b": 0.8386408896859647,
+        "epsilon": 0.1870426367202509,
+        "q": 0.09902705704011917
+      },
+      {
+        "b": 0.9099214907026334,
+        "epsilon": 0.11336146756007041,
+        "q": 0.0978158216056618
+      },
+      {
+        "b": 0.8360864625126346,
+        "epsilon": 0.31296277727621696,
+        "q": 0.832275086192528
+      },
+      {
+        "b": 0.8964719685739905,
+        "epsilon": 0.1741922764621651,
+        "q": 0.9350233234018993
+      }
+    ],
+    "ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.9172964844509264,
+        "chaosfex__epsilon": 0.03908947126601931,
+        "chaosfex__q": 0.7625525342743982,
+        "clf__C": 13.049073550362385,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8630415685060284,
+        "chaosfex__epsilon": 0.07687766128358967,
+        "chaosfex__q": 0.052583294328043075,
+        "clf__C": 29.415731618103017,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9180959720803297,
+        "chaosfex__epsilon": 0.05916255652250149,
+        "chaosfex__q": 0.8505680575515305,
+        "clf__C": 2.3251694632928044,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8078928672889821,
+        "chaosfex__epsilon": 0.14123692824848325,
+        "chaosfex__q": 0.6442933157596513,
+        "clf__C": 452.79442190489146,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.920326855112309,
+        "chaosfex__epsilon": 0.06997837104872524,
+        "chaosfex__q": 0.925415923968396,
+        "clf__C": 72.32092541230126,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9184237632737285,
+        "chaosfex__epsilon": 0.09451261370102723,
+        "chaosfex__q": 0.7849941823538258,
+        "clf__C": 18.379258428652733,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.7933399602522653,
+        "chaosfex__epsilon": 0.11348888996620475,
+        "chaosfex__q": 0.17534444494187518,
+        "clf__C": 64.75901428191536,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.4631836801022883,
+        "chaosfex__epsilon": 0.12902842353081762,
+        "chaosfex__q": 0.4216926462024511,
+        "clf__C": 422.37001264844025,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.17454623604448125,
+        "chaosfex__epsilon": 0.09574092403714694,
+        "chaosfex__q": 0.05747753698931334,
+        "clf__C": 142.67013033608305,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.7112892353325527,
+        "chaosfex__epsilon": 0.07224970913128358,
+        "chaosfex__q": 0.32236757749400585,
+        "clf__C": 764.1749183933496,
+        "clf__gamma": "scale"
+      }
+    ],
+    "ChaosFEX+LR": [
+      {
+        "chaosfex__b": 0.9172964844509264,
+        "chaosfex__epsilon": 0.03908947126601931,
+        "chaosfex__q": 0.7625525342743982,
+        "clf__C": 4.410365667970983
+      },
+      {
+        "chaosfex__b": 0.6678508349134253,
+        "chaosfex__epsilon": 0.19441010237849504,
+        "chaosfex__q": 0.06645944960977263,
+        "clf__C": 56.327642471977065
+      },
+      {
+        "chaosfex__b": 0.9180959720803297,
+        "chaosfex__epsilon": 0.05916255652250149,
+        "chaosfex__q": 0.8505680575515305,
+        "clf__C": 0.5105852485733559
+      },
+      {
+        "chaosfex__b": 0.6869179596341041,
+        "chaosfex__epsilon": 0.14224171513438658,
+        "chaosfex__q": 0.671983629670188,
+        "clf__C": 27.919142076125105
+      },
+      {
+        "chaosfex__b": 0.920326855112309,
+        "chaosfex__epsilon": 0.06997837104872524,
+        "chaosfex__q": 0.925415923968396,
+        "clf__C": 37.50420538742867
+      },
+      {
+        "chaosfex__b": 0.5417225136867262,
+        "chaosfex__epsilon": 0.16955028886032605,
+        "chaosfex__q": 0.0960285227912124,
+        "clf__C": 0.08776850056950472
+      },
+      {
+        "chaosfex__b": 0.2800526500407516,
+        "chaosfex__epsilon": 0.10877959604666723,
+        "chaosfex__q": 0.5891053218252049,
+        "clf__C": 38.60652638149743
+      },
+      {
+        "chaosfex__b": 0.4631836801022883,
+        "chaosfex__epsilon": 0.12902842353081762,
+        "chaosfex__q": 0.4216926462024511,
+        "clf__C": 340.4993959623951
+      },
+      {
+        "chaosfex__b": 0.21729531696779386,
+        "chaosfex__epsilon": 0.06575080168365215,
+        "chaosfex__q": 0.5891776276461255,
+        "clf__C": 40.23669800358005
+      },
+      {
+        "chaosfex__b": 0.865649549231157,
+        "chaosfex__epsilon": 0.14819474648605327,
+        "chaosfex__q": 0.3622117583979677,
+        "clf__C": 2.0781341056874227
+      }
+    ],
+    "MP-ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.3950973669431999,
+        "chaosfex__epsilon": 0.1669080684257656,
+        "clf__C": 13.049073550362385
+      },
+      {
+        "chaosfex__b": 0.9214354181474579,
+        "chaosfex__epsilon": 0.0304753188271282,
+        "clf__C": 58.788240566440805
+      },
+      {
+        "chaosfex__b": 0.29014454759257996,
+        "chaosfex__epsilon": 0.09100660272077526,
+        "clf__C": 13.07881440940143
+      },
+      {
+        "chaosfex__b": 0.9283958802256405,
+        "chaosfex__epsilon": 0.10919585358185878,
+        "clf__C": 408.6358209541233
+      },
+      {
+        "chaosfex__b": 0.5251179410761283,
+        "chaosfex__epsilon": 0.2803330628669521,
+        "clf__C": 12.211935161676122
+      },
+      {
+        "chaosfex__b": 0.4725395345818196,
+        "chaosfex__epsilon": 0.32768345515574543,
+        "clf__C": 3.9425682087079728
+      },
+      {
+        "chaosfex__b": 0.3479936667089789,
+        "chaosfex__epsilon": 0.20116208425290638,
+        "clf__C": 28.846699953788328
+      },
+      {
+        "chaosfex__b": 0.7011186600478472,
+        "chaosfex__epsilon": 0.32365502426399106,
+        "clf__C": 14.255533717547374
+      },
+      {
+        "chaosfex__b": 0.7348060180426361,
+        "chaosfex__epsilon": 0.12587944384009445,
+        "clf__C": 30.111222251270952
+      },
+      {
+        "chaosfex__b": 0.6749948099880124,
+        "chaosfex__epsilon": 0.18778293598307053,
+        "clf__C": 7.289099883583254
+      }
+    ],
+    "SVM-RBF": [
+      {
+        "svc__C": 821.2461922256862,
+        "svc__gamma": 0.9903593841281118
+      },
+      {
+        "svc__C": 0.6573686655138332,
+        "svc__gamma": 2.458030016147765
+      },
+      {
+        "svc__C": 5.58456116743629,
+        "svc__gamma": 0.7634769413937056
+      },
+      {
+        "svc__C": 15.086763143259871,
+        "svc__gamma": 0.7972119913354007
+      },
+      {
+        "svc__C": 777.5663179233834,
+        "svc__gamma": 0.37504205387428685
+      },
+      {
+        "svc__C": 0.7726319876517099,
+        "svc__gamma": 2.257675556068156
+      },
+      {
+        "svc__C": 24.889928701803996,
+        "svc__gamma": 0.38606526381497447
+      },
+      {
+        "svc__C": 52.10986937158461,
+        "svc__gamma": 1.0439872157972168
+      },
+      {
+        "svc__C": 6.634241679376868,
+        "svc__gamma": 0.8930231281272528
+      },
+      {
+        "svc__C": 0.46462800842316415,
+        "svc__gamma": 2.4705601253643863
+      }
+    ],
+    "LogReg": [
+      {
+        "logisticregression__C": 224.2012371372442
+      },
+      {
+        "logisticregression__C": 0.3177840006884068
+      },
+      {
+        "logisticregression__C": 0.41301841228098785
+      },
+      {
+        "logisticregression__C": 0.5508068674169326
+      },
+      {
+        "logisticregression__C": 0.40620867542822736
+      },
+      {
+        "logisticregression__C": 0.09233868514531875
+      },
+      {
+        "logisticregression__C": 1.2829758217979783
+      },
+      {
+        "logisticregression__C": 47.809340557770746
+      },
+      {
+        "logisticregression__C": 0.2594825518070184
+      },
+      {
+        "logisticregression__C": 1.0262367264023722
+      }
+    ],
+    "kNN": [
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 17
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 18
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 7
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 12
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 25
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 25
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 15
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 11
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 12
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 23
+      }
+    ],
+    "RandomForest": [
+      {
+        "max_features": "sqrt",
+        "max_depth": 8
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 8
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": 8
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 8
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 8
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 8
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 8
+      }
+    ],
+    "MLP": [
+      {
+        "mlpclassifier__alpha": 0.01296065659727973,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0001619311091244073,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.07560136264099328,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.00012579993838890522,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0012931094742431807,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.011577943500765492,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 6.88058664908792e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.053066944048916216,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.001330328506760922,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.05932361582213743,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      }
+    ]
+  },
+  "circles": {
+    "ChaosNet": [
+      {
+        "b": 0.2881000508941643,
+        "epsilon": 0.15684457390372808,
+        "q": 0.4605352989948937
+      },
+      {
+        "b": 0.17534871252568268,
+        "epsilon": 0.17646845693819854,
+        "q": 0.40790915328698024
+      },
+      {
+        "b": 0.5320437561478907,
+        "epsilon": 0.2969223541317515,
+        "q": 0.539787344133292
+      },
+      {
+        "b": 0.2575257839195666,
+        "epsilon": 0.11686603994573674,
+        "q": 0.6354291723923656
+      },
+      {
+        "b": 0.5251179410761283,
+        "epsilon": 0.2803330628669521,
+        "q": 0.5195265102004623
+      },
+      {
+        "b": 0.6185894474639709,
+        "epsilon": 0.18238071835111475,
+        "q": 0.5594737964834807
+      },
+      {
+        "b": 0.4154970164525504,
+        "epsilon": 0.3370309677800959,
+        "q": 0.4554493526706494
+      },
+      {
+        "b": 0.11867746043656147,
+        "epsilon": 0.16004705393686583,
+        "q": 0.44456830829680416
+      },
+      {
+        "b": 0.7611552872044571,
+        "epsilon": 0.33609363853881924,
+        "q": 0.5755680891508701
+      },
+      {
+        "b": 0.21862278235527943,
+        "epsilon": 0.11529635887059189,
+        "q": 0.6831762564212494
+      }
+    ],
+    "ChaosNet-Std": [
+      {
+        "b": 0.2881000508941643,
+        "epsilon": 0.15684457390372808,
+        "q": 0.4605352989948937
+      },
+      {
+        "b": 0.08514930490959413,
+        "epsilon": 0.018290674612974615,
+        "q": 0.8403282530864719
+      },
+      {
+        "b": 0.6806771119464406,
+        "epsilon": 0.3085549371572516,
+        "q": 0.5000075250531951
+      },
+      {
+        "b": 0.2575257839195666,
+        "epsilon": 0.11686603994573674,
+        "q": 0.6354291723923656
+      },
+      {
+        "b": 0.5251179410761283,
+        "epsilon": 0.2803330628669521,
+        "q": 0.5195265102004623
+      },
+      {
+        "b": 0.739317070832284,
+        "epsilon": 0.0631644397881424,
+        "q": 0.31712045141859974
+      },
+      {
+        "b": 0.21274216347734537,
+        "epsilon": 0.09012969561928509,
+        "q": 0.47849798594600973
+      },
+      {
+        "b": 0.11867746043656147,
+        "epsilon": 0.16004705393686583,
+        "q": 0.44456830829680416
+      },
+      {
+        "b": 0.08502106787808966,
+        "epsilon": 0.04889982960147241,
+        "q": 0.21935526376398284
+      },
+      {
+        "b": 0.6749948099880124,
+        "epsilon": 0.18778293598307053,
+        "q": 0.46910162783053927
+      }
+    ],
+    "ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.9307565080094876,
+        "chaosfex__epsilon": 0.1713780517398688,
+        "chaosfex__q": 0.46533142602763866,
+        "clf__C": 132.46974647468423,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8630415685060284,
+        "chaosfex__epsilon": 0.07687766128358967,
+        "chaosfex__q": 0.052583294328043075,
+        "clf__C": 29.415731618103017,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9348381008214915,
+        "chaosfex__epsilon": 0.04802662045310219,
+        "chaosfex__q": 0.5036003954412374,
+        "clf__C": 1.9686353085064905,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8078928672889821,
+        "chaosfex__epsilon": 0.14123692824848325,
+        "chaosfex__q": 0.6442933157596513,
+        "clf__C": 452.79442190489146,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.16626810530339392,
+        "chaosfex__epsilon": 0.08890513633780715,
+        "chaosfex__q": 0.3772853123403541,
+        "clf__C": 117.7693118316281,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.14074454557638064,
+        "chaosfex__epsilon": 0.039084961349680925,
+        "chaosfex__q": 0.5093193176053231,
+        "clf__C": 698.8956346681862,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.6882185757030507,
+        "chaosfex__epsilon": 0.06842949118120488,
+        "chaosfex__q": 0.16234175694254882,
+        "clf__C": 677.0007999922617,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9099214907026334,
+        "chaosfex__epsilon": 0.11336146756007041,
+        "chaosfex__q": 0.0978158216056618,
+        "clf__C": 1.719533889116962,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.21729531696779386,
+        "chaosfex__epsilon": 0.06575080168365215,
+        "chaosfex__q": 0.5891776276461255,
+        "clf__C": 76.50641761331366,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.05933673849712996,
+        "chaosfex__epsilon": 0.059556411230093795,
+        "chaosfex__q": 0.4961959638207315,
+        "clf__C": 0.3430189520824768,
+        "clf__gamma": "scale"
+      }
+    ],
+    "ChaosFEX+LR": [
+      {
+        "chaosfex__b": 0.4605352989948937,
+        "chaosfex__epsilon": 0.07545720174250525,
+        "chaosfex__q": 0.06691082039271963,
+        "clf__C": 12.251167718003071
+      },
+      {
+        "chaosfex__b": 0.8630415685060284,
+        "chaosfex__epsilon": 0.07687766128358967,
+        "chaosfex__q": 0.052583294328043075,
+        "clf__C": 12.182167542616241
+      },
+      {
+        "chaosfex__b": 0.5320437561478907,
+        "chaosfex__epsilon": 0.2969223541317515,
+        "chaosfex__q": 0.539787344133292,
+        "clf__C": 0.025732063317528246
+      },
+      {
+        "chaosfex__b": 0.8078928672889821,
+        "chaosfex__epsilon": 0.14123692824848325,
+        "chaosfex__q": 0.6442933157596513,
+        "clf__C": 371.429449829683
+      },
+      {
+        "chaosfex__b": 0.058087487900799484,
+        "chaosfex__epsilon": 0.03952686444901382,
+        "chaosfex__q": 0.08974405213834963,
+        "clf__C": 607.1064383369776
+      },
+      {
+        "chaosfex__b": 0.14074454557638064,
+        "chaosfex__epsilon": 0.039084961349680925,
+        "chaosfex__q": 0.5093193176053231,
+        "clf__C": 639.0214109815831
+      },
+      {
+        "chaosfex__b": 0.2800526500407516,
+        "chaosfex__epsilon": 0.10877959604666723,
+        "chaosfex__q": 0.5891053218252049,
+        "clf__C": 38.60652638149743
+      },
+      {
+        "chaosfex__b": 0.9099214907026334,
+        "chaosfex__epsilon": 0.11336146756007041,
+        "chaosfex__q": 0.0978158216056618,
+        "clf__C": 0.3501574930749549
+      },
+      {
+        "chaosfex__b": 0.21729531696779386,
+        "chaosfex__epsilon": 0.06575080168365215,
+        "chaosfex__q": 0.5891776276461255,
+        "clf__C": 40.23669800358005
+      },
+      {
+        "chaosfex__b": 0.8582064064026347,
+        "chaosfex__epsilon": 0.10708715799337633,
+        "chaosfex__q": 0.5430540047418334,
+        "clf__C": 32.51899538097413
+      }
+    ],
+    "MP-ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.9290849793713035,
+        "chaosfex__epsilon": 0.08588605184271239,
+        "clf__C": 90.58458887563643
+      },
+      {
+        "chaosfex__b": 0.18205571741522913,
+        "chaosfex__epsilon": 0.08126954866692683,
+        "clf__C": 62.95546558422269
+      },
+      {
+        "chaosfex__b": 0.29014454759257996,
+        "chaosfex__epsilon": 0.09100660272077526,
+        "clf__C": 13.07881440940143
+      },
+      {
+        "chaosfex__b": 0.6380698122711826,
+        "chaosfex__epsilon": 0.07266814850412068,
+        "clf__C": 2.7942100621865085
+      },
+      {
+        "chaosfex__b": 0.2709083377247919,
+        "chaosfex__epsilon": 0.135261479502455,
+        "clf__C": 378.9702945336469
+      },
+      {
+        "chaosfex__b": 0.8767498171441295,
+        "chaosfex__epsilon": 0.056772773231302996,
+        "clf__C": 27.988231123708953
+      },
+      {
+        "chaosfex__b": 0.4085356269301549,
+        "chaosfex__epsilon": 0.15498607004385867,
+        "clf__C": 114.55233179772438
+      },
+      {
+        "chaosfex__b": 0.11867746043656147,
+        "chaosfex__epsilon": 0.16004705393686583,
+        "clf__C": 5.670703311028809
+      },
+      {
+        "chaosfex__b": 0.8956859354970573,
+        "chaosfex__epsilon": 0.286119504512926,
+        "clf__C": 3.154670612201905
+      },
+      {
+        "chaosfex__b": 0.05933673849712996,
+        "chaosfex__epsilon": 0.059556411230093795,
+        "clf__C": 9.61818602595583
+      }
+    ],
+    "SVM-RBF": [
+      {
+        "svc__C": 28.079081078857257,
+        "svc__gamma": 0.12152621852509349
+      },
+      {
+        "svc__C": 0.12869165107815034,
+        "svc__gamma": 0.22508033397597493
+      },
+      {
+        "svc__C": 260.55605528320865,
+        "svc__gamma": 0.029592672435431382
+      },
+      {
+        "svc__C": 1.3617592283802478,
+        "svc__gamma": 0.29220631105386685
+      },
+      {
+        "svc__C": 3.869011419954072,
+        "svc__gamma": 0.13169842091742062
+      },
+      {
+        "svc__C": 0.7726319876517099,
+        "svc__gamma": 2.257675556068156
+      },
+      {
+        "svc__C": 372.7697013499732,
+        "svc__gamma": 0.004569819289355834
+      },
+      {
+        "svc__C": 816.5034948781686,
+        "svc__gamma": 0.04925829235993477
+      },
+      {
+        "svc__C": 16.650446929687977,
+        "svc__gamma": 0.052111081645942574
+      },
+      {
+        "svc__C": 578.226029598073,
+        "svc__gamma": 1.04399603692871
+      }
+    ],
+    "LogReg": [
+      {
+        "logisticregression__C": 1.96282248134428
+      },
+      {
+        "logisticregression__C": 0.3177840006884068
+      },
+      {
+        "logisticregression__C": 0.41301841228098785
+      },
+      {
+        "logisticregression__C": 2.0173786271782257
+      },
+      {
+        "logisticregression__C": 634.1310723409239
+      },
+      {
+        "logisticregression__C": 0.021476278468768907
+      },
+      {
+        "logisticregression__C": 0.001779015591677929
+      },
+      {
+        "logisticregression__C": 47.809340557770746
+      },
+      {
+        "logisticregression__C": 0.005849709207050796
+      },
+      {
+        "logisticregression__C": 0.0063529754013578865
+      }
+    ],
+    "kNN": [
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 23
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 14
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 2
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 16
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 16
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 22
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 4
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 16
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 12
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 17
+      }
+    ],
+    "RandomForest": [
+      {
+        "max_features": "sqrt",
+        "max_depth": 4
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 8
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 4
+      }
+    ],
+    "MLP": [
+      {
+        "mlpclassifier__alpha": 0.003120719877010642,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.00046568046379195655,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0005545996722241044,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.022897927453985736,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.006218432774035597,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.021150047111665127,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.010472536645057004,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 2.019450244810227e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.031168622654226853,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 1.1002632709098874e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      }
+    ]
+  },
+  "xor": {
+    "ChaosNet": [
+      {
+        "b": 0.33388551583176546,
+        "epsilon": 0.036441326622929364,
+        "q": 0.5631770933760918
+      },
+      {
+        "b": 0.6678508349134253,
+        "epsilon": 0.19441010237849504,
+        "q": 0.06645944960977263
+      },
+      {
+        "b": 0.20230290192576017,
+        "epsilon": 0.02834312998439443,
+        "q": 0.5216601877703279
+      },
+      {
+        "b": 0.38624011173403544,
+        "epsilon": 0.10755871406577366,
+        "q": 0.3558637975611361
+      },
+      {
+        "b": 0.6933343943069282,
+        "epsilon": 0.11949253693221423,
+        "q": 0.24448054602233876
+      },
+      {
+        "b": 0.9175374761611478,
+        "epsilon": 0.30384730340216887,
+        "q": 0.21957319003634168
+      },
+      {
+        "b": 0.8467376717636346,
+        "epsilon": 0.32200625829107804,
+        "q": 0.8032177336164643
+      },
+      {
+        "b": 0.475091596659562,
+        "epsilon": 0.1992036563388079,
+        "q": 0.16799957811312255
+      },
+      {
+        "b": 0.9345834918980904,
+        "epsilon": 0.015754982336814192,
+        "q": 0.3399177138837614
+      },
+      {
+        "b": 0.8964719685739905,
+        "epsilon": 0.1741922764621651,
+        "q": 0.9350233234018993
+      }
+    ],
+    "ChaosNet-Std": [
+      {
+        "b": 0.9002020253446256,
+        "epsilon": 0.06393951204298283,
+        "q": 0.42319574599147125
+      },
+      {
+        "b": 0.7251298834504708,
+        "epsilon": 0.33640993081629517,
+        "q": 0.7233490889418556
+      },
+      {
+        "b": 0.14625111587898468,
+        "epsilon": 0.0218860695153033,
+        "q": 0.36484365650296935
+      },
+      {
+        "b": 0.5401841162286602,
+        "epsilon": 0.16027252993731025,
+        "q": 0.32572717913856175
+      },
+      {
+        "b": 0.8266939120393001,
+        "epsilon": 0.32994196793593283,
+        "q": 0.19745801726422885
+      },
+      {
+        "b": 0.8767498171441295,
+        "epsilon": 0.056772773231302996,
+        "q": 0.6005694766123812
+      },
+      {
+        "b": 0.35132544005236116,
+        "epsilon": 0.13629530695383982,
+        "q": 0.22019640398137796
+      },
+      {
+        "b": 0.475091596659562,
+        "epsilon": 0.1992036563388079,
+        "q": 0.16799957811312255
+      },
+      {
+        "b": 0.8360864625126346,
+        "epsilon": 0.31296277727621696,
+        "q": 0.832275086192528
+      },
+      {
+        "b": 0.20267263182539041,
+        "epsilon": 0.06376615806425097,
+        "q": 0.9009656752786167
+      }
+    ],
+    "ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.5439321535345923,
+        "chaosfex__epsilon": 0.12714551530226445,
+        "chaosfex__q": 0.5924870384644796,
+        "clf__C": 15.119336467641,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8387502370664346,
+        "chaosfex__epsilon": 0.240621018852826,
+        "chaosfex__q": 0.12653979023280013,
+        "clf__C": 0.14329107238467848,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.9348381008214915,
+        "chaosfex__epsilon": 0.04802662045310219,
+        "chaosfex__q": 0.5036003954412374,
+        "clf__C": 1.9686353085064905,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8840531158283551,
+        "chaosfex__epsilon": 0.19759283099353833,
+        "chaosfex__q": 0.7036875485852335,
+        "clf__C": 8.336040661143743,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.4425319821918179,
+        "chaosfex__epsilon": 0.29193457561686026,
+        "chaosfex__q": 0.7576753873415549,
+        "clf__C": 291.84831775054175,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.5417225136867262,
+        "chaosfex__epsilon": 0.16955028886032605,
+        "chaosfex__q": 0.0960285227912124,
+        "clf__C": 0.5684220848321814,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8467376717636346,
+        "chaosfex__epsilon": 0.32200625829107804,
+        "chaosfex__q": 0.8032177336164643,
+        "clf__C": 0.5288085937770678,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8485600566674614,
+        "chaosfex__epsilon": 0.11018449995968103,
+        "chaosfex__q": 0.7704311440986172,
+        "clf__C": 570.7493360222558,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8360864625126346,
+        "chaosfex__epsilon": 0.31296277727621696,
+        "chaosfex__q": 0.832275086192528,
+        "clf__C": 13.286872459026693,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8964719685739905,
+        "chaosfex__epsilon": 0.1741922764621651,
+        "chaosfex__q": 0.9350233234018993,
+        "clf__C": 0.4770292728973067,
+        "clf__gamma": "scale"
+      }
+    ],
+    "ChaosFEX+LR": [
+      {
+        "chaosfex__b": 0.5439321535345923,
+        "chaosfex__epsilon": 0.12714551530226445,
+        "chaosfex__q": 0.5924870384644796,
+        "clf__C": 5.301709347576826
+      },
+      {
+        "chaosfex__b": 0.202847377608112,
+        "chaosfex__epsilon": 0.2269403801044906,
+        "chaosfex__q": 0.13851215044974508,
+        "clf__C": 1.275082029528179
+      },
+      {
+        "chaosfex__b": 0.9348381008214915,
+        "chaosfex__epsilon": 0.04802662045310219,
+        "chaosfex__q": 0.5036003954412374,
+        "clf__C": 0.41467379152153766
+      },
+      {
+        "chaosfex__b": 0.8840531158283551,
+        "chaosfex__epsilon": 0.19759283099353833,
+        "chaosfex__q": 0.7036875485852335,
+        "clf__C": 2.5188353543550335
+      },
+      {
+        "chaosfex__b": 0.5492667766483027,
+        "chaosfex__epsilon": 0.09224349430569098,
+        "chaosfex__q": 0.8559510494505315,
+        "clf__C": 0.6520305465210515
+      },
+      {
+        "chaosfex__b": 0.31712045141859974,
+        "chaosfex__epsilon": 0.019491907889484742,
+        "chaosfex__q": 0.12266714188838738,
+        "clf__C": 49.22678591323029
+      },
+      {
+        "chaosfex__b": 0.8467376717636346,
+        "chaosfex__epsilon": 0.32200625829107804,
+        "chaosfex__q": 0.8032177336164643,
+        "clf__C": 0.08019053860064128
+      },
+      {
+        "chaosfex__b": 0.7670848612387121,
+        "chaosfex__epsilon": 0.12807690107063496,
+        "chaosfex__q": 0.18243281474752376,
+        "clf__C": 19.66714387020436
+      },
+      {
+        "chaosfex__b": 0.7348060180426361,
+        "chaosfex__epsilon": 0.12587944384009445,
+        "chaosfex__q": 0.6077138864930957,
+        "clf__C": 1.3503888779919937
+      },
+      {
+        "chaosfex__b": 0.5000971283975834,
+        "chaosfex__epsilon": 0.013458502529456889,
+        "chaosfex__q": 0.7621864112699384,
+        "clf__C": 61.685078906679585
+      }
+    ],
+    "MP-ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.13648856710456675,
+        "chaosfex__epsilon": 0.3218991697397391,
+        "clf__C": 7.492121411354239
+      },
+      {
+        "chaosfex__b": 0.5298487564757154,
+        "chaosfex__epsilon": 0.11703219277421197,
+        "clf__C": 1.8283634209844517
+      },
+      {
+        "chaosfex__b": 0.6806771119464406,
+        "chaosfex__epsilon": 0.3085549371572516,
+        "clf__C": 10.000770121888904
+      },
+      {
+        "chaosfex__b": 0.38624011173403544,
+        "chaosfex__epsilon": 0.10755871406577366,
+        "clf__C": 2.287676736428354
+      },
+      {
+        "chaosfex__b": 0.44131237916400123,
+        "chaosfex__epsilon": 0.15974242162279143,
+        "clf__C": 0.6176469460575713
+      },
+      {
+        "chaosfex__b": 0.4725395345818196,
+        "chaosfex__epsilon": 0.32768345515574543,
+        "clf__C": 3.9425682087079728
+      },
+      {
+        "chaosfex__b": 0.4154970164525504,
+        "chaosfex__epsilon": 0.3370309677800959,
+        "clf__C": 6.3386551214906035
+      },
+      {
+        "chaosfex__b": 0.7011186600478472,
+        "chaosfex__epsilon": 0.32365502426399106,
+        "clf__C": 14.255533717547374
+      },
+      {
+        "chaosfex__b": 0.8956859354970573,
+        "chaosfex__epsilon": 0.286119504512926,
+        "clf__C": 3.154670612201905
+      },
+      {
+        "chaosfex__b": 0.865649549231157,
+        "chaosfex__epsilon": 0.14819474648605327,
+        "clf__C": 2.4412250353516844
+      }
+    ],
+    "SVM-RBF": [
+      {
+        "svc__C": 15.67667719550606,
+        "svc__gamma": 0.3766576841599298
+      },
+      {
+        "svc__C": 4.656804637919565,
+        "svc__gamma": 0.3995972283135064
+      },
+      {
+        "svc__C": 721.4468148355744,
+        "svc__gamma": 0.031625820805044176
+      },
+      {
+        "svc__C": 1.3617592283802478,
+        "svc__gamma": 0.29220631105386685
+      },
+      {
+        "svc__C": 3.869011419954072,
+        "svc__gamma": 0.13169842091742062
+      },
+      {
+        "svc__C": 0.4596755927920722,
+        "svc__gamma": 6.601652276280746
+      },
+      {
+        "svc__C": 68.6320550432449,
+        "svc__gamma": 0.05066222641776684
+      },
+      {
+        "svc__C": 0.20194502448102294,
+        "svc__gamma": 0.7935859334260503
+      },
+      {
+        "svc__C": 0.18333000536503802,
+        "svc__gamma": 8.210181022181537
+      },
+      {
+        "svc__C": 62.57913640897903,
+        "svc__gamma": 0.07308009072718463
+      }
+    ],
+    "LogReg": [
+      {
+        "logisticregression__C": 1.96282248134428
+      },
+      {
+        "logisticregression__C": 20.986835607646608
+      },
+      {
+        "logisticregression__C": 1.9859799848850126
+      },
+      {
+        "logisticregression__C": 2.0173786271782257
+      },
+      {
+        "logisticregression__C": 0.0329529405081
+      },
+      {
+        "logisticregression__C": 167.64624757559184
+      },
+      {
+        "logisticregression__C": 227.59405236972594
+      },
+      {
+        "logisticregression__C": 47.809340557770746
+      },
+      {
+        "logisticregression__C": 174.0108853820365
+      },
+      {
+        "logisticregression__C": 186.79038325957828
+      }
+    ],
+    "kNN": [
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 9
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 25
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 24
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 10
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 25
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 13
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 8
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 16
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 23
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 16
+      }
+    ],
+    "RandomForest": [
+      {
+        "max_features": "sqrt",
+        "max_depth": 4
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": 4
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": 4
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 4
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": 4
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": 4
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 4
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": 4
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": 4
+      }
+    ],
+    "MLP": [
+      {
+        "mlpclassifier__alpha": 0.0015676677195506068,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.05373155847046796,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0005511750757691414,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.08016442648861634,
+        "mlpclassifier__hidden_layer_sizes": [
+          128
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.006218432774035597,
+        "mlpclassifier__hidden_layer_sizes": [
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 1.0152399308817323e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 1.4682043379470539e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.00018875084436459274,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0004052289393762666,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.05022197857789968,
+        "mlpclassifier__hidden_layer_sizes": [
+          32
+        ]
+      }
+    ]
+  },
+  "spirals": {
+    "ChaosNet": [
+      {
+        "b": 0.6008861504501793,
+        "epsilon": 0.08965779834704043,
+        "q": 0.8993732706631619
+      },
+      {
+        "b": 0.64741518069781,
+        "epsilon": 0.06237690529598346,
+        "q": 0.9001352803917321
+      },
+      {
+        "b": 0.1104299336632592,
+        "epsilon": 0.3424326223239603,
+        "q": 0.9235222820394563
+      },
+      {
+        "b": 0.7220716007918042,
+        "epsilon": 0.11670635258924326,
+        "q": 0.6702623723794228
+      },
+      {
+        "b": 0.2709083377247919,
+        "epsilon": 0.135261479502455,
+        "q": 0.855186163085065
+      },
+      {
+        "b": 0.7823592298282264,
+        "epsilon": 0.06978563203082526,
+        "q": 0.7437686784262021
+      },
+      {
+        "b": 0.8467376717636346,
+        "epsilon": 0.32200625829107804,
+        "q": 0.8032177336164643
+      },
+      {
+        "b": 0.9184738995825142,
+        "epsilon": 0.2878848182389888,
+        "q": 0.8135607927539199
+      },
+      {
+        "b": 0.48055261622216217,
+        "epsilon": 0.07202913252867231,
+        "q": 0.5390474157882863
+      },
+      {
+        "b": 0.8964719685739905,
+        "epsilon": 0.1741922764621651,
+        "q": 0.9350233234018993
+      }
+    ],
+    "ChaosNet-Std": [
+      {
+        "b": 0.6008861504501793,
+        "epsilon": 0.08965779834704043,
+        "q": 0.8993732706631619
+      },
+      {
+        "b": 0.64741518069781,
+        "epsilon": 0.06237690529598346,
+        "q": 0.9001352803917321
+      },
+      {
+        "b": 0.1711219508104402,
+        "epsilon": 0.06208684128157631,
+        "q": 0.21599587908222379
+      },
+      {
+        "b": 0.7220716007918042,
+        "epsilon": 0.11670635258924326,
+        "q": 0.6702623723794228
+      },
+      {
+        "b": 0.5132605738218307,
+        "epsilon": 0.08549547491222759,
+        "q": 0.10856103114452662
+      },
+      {
+        "b": 0.2966778157930022,
+        "epsilon": 0.04361210568250391,
+        "q": 0.3164719394602832
+      },
+      {
+        "b": 0.8535741362924015,
+        "epsilon": 0.03255362892739987,
+        "q": 0.7891062107520487
+      },
+      {
+        "b": 0.9184738995825142,
+        "epsilon": 0.2878848182389888,
+        "q": 0.8135607927539199
+      },
+      {
+        "b": 0.8360864625126346,
+        "epsilon": 0.31296277727621696,
+        "q": 0.832275086192528
+      },
+      {
+        "b": 0.2900969393647472,
+        "epsilon": 0.25368404377286424,
+        "q": 0.07058025497270919
+      }
+    ],
+    "ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.43128931940501425,
+        "chaosfex__epsilon": 0.09938125116618288,
+        "chaosfex__q": 0.4438284901364233,
+        "clf__C": 369.05577292137576,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8630415685060284,
+        "chaosfex__epsilon": 0.07687766128358967,
+        "chaosfex__q": 0.052583294328043075,
+        "clf__C": 29.415731618103017,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.1711219508104402,
+        "chaosfex__epsilon": 0.06208684128157631,
+        "chaosfex__q": 0.21599587908222379,
+        "clf__C": 138.4651853166288,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.16636447814796876,
+        "chaosfex__epsilon": 0.07149875266061068,
+        "chaosfex__q": 0.21903334243149042,
+        "clf__C": 643.2872920479792,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8765447352257865,
+        "chaosfex__epsilon": 0.04642614903327811,
+        "chaosfex__q": 0.7971692918885117,
+        "clf__C": 4.64627829314116,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.7823592298282264,
+        "chaosfex__epsilon": 0.06978563203082526,
+        "chaosfex__q": 0.7437686784262021,
+        "clf__C": 8.7041085785892,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.5162327707993419,
+        "chaosfex__epsilon": 0.07830636543703387,
+        "chaosfex__q": 0.6308195863060345,
+        "clf__C": 913.8966502602069,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8485600566674614,
+        "chaosfex__epsilon": 0.11018449995968103,
+        "chaosfex__q": 0.7704311440986172,
+        "clf__C": 570.7493360222558,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.17454623604448125,
+        "chaosfex__epsilon": 0.09574092403714694,
+        "chaosfex__q": 0.05747753698931334,
+        "clf__C": 142.67013033608305,
+        "clf__gamma": "scale"
+      },
+      {
+        "chaosfex__b": 0.8582064064026347,
+        "chaosfex__epsilon": 0.10708715799337633,
+        "chaosfex__q": 0.5430540047418334,
+        "clf__C": 64.52227863024561,
+        "clf__gamma": "scale"
+      }
+    ],
+    "ChaosFEX+LR": [
+      {
+        "chaosfex__b": 0.6008861504501793,
+        "chaosfex__epsilon": 0.08965779834704043,
+        "chaosfex__q": 0.8993732706631619,
+        "clf__C": 25.650834317709887
+      },
+      {
+        "chaosfex__b": 0.8449754820852289,
+        "chaosfex__epsilon": 0.0918316367675838,
+        "chaosfex__q": 0.7258481906246035,
+        "clf__C": 0.5552540179490704
+      },
+      {
+        "chaosfex__b": 0.7145597827588104,
+        "chaosfex__epsilon": 0.10357235865361439,
+        "chaosfex__q": 0.2431721717599583,
+        "clf__C": 1.2127386003340253
+      },
+      {
+        "chaosfex__b": 0.16636447814796876,
+        "chaosfex__epsilon": 0.07149875266061068,
+        "chaosfex__q": 0.21903334243149042,
+        "clf__C": 576.1110631834529
+      },
+      {
+        "chaosfex__b": 0.8642008298690304,
+        "chaosfex__epsilon": 0.042177193839042594,
+        "chaosfex__q": 0.34805705278201043,
+        "clf__C": 7.255942815464052
+      },
+      {
+        "chaosfex__b": 0.6798592527139018,
+        "chaosfex__epsilon": 0.15981721623238623,
+        "chaosfex__q": 0.07063978319517333,
+        "clf__C": 7.732399617061104
+      },
+      {
+        "chaosfex__b": 0.8267273663894077,
+        "chaosfex__epsilon": 0.07283002500065476,
+        "chaosfex__q": 0.5420370436488371,
+        "clf__C": 0.690435788302669
+      },
+      {
+        "chaosfex__b": 0.8485600566674614,
+        "chaosfex__epsilon": 0.11018449995968103,
+        "chaosfex__q": 0.7704311440986172,
+        "clf__C": 496.08576884677416
+      },
+      {
+        "chaosfex__b": 0.21729531696779386,
+        "chaosfex__epsilon": 0.06575080168365215,
+        "chaosfex__q": 0.5891776276461255,
+        "clf__C": 40.23669800358005
+      },
+      {
+        "chaosfex__b": 0.39782945265319886,
+        "chaosfex__epsilon": 0.11810290253258375,
+        "chaosfex__q": 0.7923834180504934,
+        "clf__C": 2.1298174297207315
+      }
+    ],
+    "MP-ChaosFEX+SVM": [
+      {
+        "chaosfex__b": 0.9290849793713035,
+        "chaosfex__epsilon": 0.08588605184271239,
+        "clf__C": 90.58458887563643
+      },
+      {
+        "chaosfex__b": 0.9214354181474579,
+        "chaosfex__epsilon": 0.0304753188271282,
+        "clf__C": 58.788240566440805
+      },
+      {
+        "chaosfex__b": 0.7702325160193282,
+        "chaosfex__epsilon": 0.08496627635110154,
+        "clf__C": 114.77292288168265
+      },
+      {
+        "chaosfex__b": 0.9283958802256405,
+        "chaosfex__epsilon": 0.10919585358185878,
+        "clf__C": 408.6358209541233
+      },
+      {
+        "chaosfex__b": 0.2709083377247919,
+        "chaosfex__epsilon": 0.135261479502455,
+        "clf__C": 378.9702945336469
+      },
+      {
+        "chaosfex__b": 0.8767498171441295,
+        "chaosfex__epsilon": 0.056772773231302996,
+        "clf__C": 27.988231123708953
+      },
+      {
+        "chaosfex__b": 0.4085356269301549,
+        "chaosfex__epsilon": 0.15498607004385867,
+        "clf__C": 114.55233179772438
+      },
+      {
+        "chaosfex__b": 0.499894250743004,
+        "chaosfex__epsilon": 0.11188640807407296,
+        "clf__C": 164.04241128227338
+      },
+      {
+        "chaosfex__b": 0.8360864625126346,
+        "chaosfex__epsilon": 0.31296277727621696,
+        "clf__C": 299.7630927460091
+      },
+      {
+        "chaosfex__b": 0.21862278235527943,
+        "chaosfex__epsilon": 0.11529635887059189,
+        "clf__C": 65.18035105537476
+      }
+    ],
+    "SVM-RBF": [
+      {
+        "svc__C": 5.627932047415165,
+        "svc__gamma": 2.8765041432546945
+      },
+      {
+        "svc__C": 320.2997570029044,
+        "svc__gamma": 2.9718940160716776
+      },
+      {
+        "svc__C": 13.88087022682366,
+        "svc__gamma": 5.870987216221037
+      },
+      {
+        "svc__C": 373.06784406101866,
+        "svc__gamma": 3.0301591887498134
+      },
+      {
+        "svc__C": 283.12155986826764,
+        "svc__gamma": 8.260443896162604
+      },
+      {
+        "svc__C": 36.239375457717905,
+        "svc__gamma": 8.474654741446036
+      },
+      {
+        "svc__C": 38.14348618664705,
+        "svc__gamma": 8.935551389956924
+      },
+      {
+        "svc__C": 1.4209617815888043,
+        "svc__gamma": 3.5315685337034464
+      },
+      {
+        "svc__C": 1.4331779312438453,
+        "svc__gamma": 7.400758046169214
+      },
+      {
+        "svc__C": 12.14335931804616,
+        "svc__gamma": 5.340563520043567
+      }
+    ],
+    "LogReg": [
+      {
+        "logisticregression__C": 0.1998246739232945
+      },
+      {
+        "logisticregression__C": 20.986835607646608
+      },
+      {
+        "logisticregression__C": 0.41301841228098785
+      },
+      {
+        "logisticregression__C": 2.0173786271782257
+      },
+      {
+        "logisticregression__C": 0.019794155307923226
+      },
+      {
+        "logisticregression__C": 167.64624757559184
+      },
+      {
+        "logisticregression__C": 0.32572010891407505
+      },
+      {
+        "logisticregression__C": 1.7020613989570499
+      },
+      {
+        "logisticregression__C": 0.020549741583481603
+      },
+      {
+        "logisticregression__C": 1.0262367264023722
+      }
+    ],
+    "kNN": [
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 6
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 14
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 3
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 20
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 4
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 2
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 25
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 7
+      },
+      {
+        "kneighborsclassifier__weights": "uniform",
+        "kneighborsclassifier__n_neighbors": 2
+      },
+      {
+        "kneighborsclassifier__weights": "distance",
+        "kneighborsclassifier__n_neighbors": 11
+      }
+    ],
+    "RandomForest": [
+      {
+        "max_features": 1.0,
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": 16
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": null
+      },
+      {
+        "max_features": 1.0,
+        "max_depth": null
+      },
+      {
+        "max_features": "sqrt",
+        "max_depth": null
+      }
+    ],
+    "MLP": [
+      {
+        "mlpclassifier__alpha": 0.030223797682839164,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 1.432910723846784e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 3.0185763867098548e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0005600770399424079,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.07381070543530444,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 7.726319876517107e-05,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.09138966502602078,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.02986797869222455,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.0005062523846238369,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      },
+      {
+        "mlpclassifier__alpha": 0.05932361582213743,
+        "mlpclassifier__hidden_layer_sizes": [
+          64,
+          64
+        ]
+      }
+    ]
+  }
+}

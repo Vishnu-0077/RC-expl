@@ -1,0 +1,272 @@
+{
+  "logistic": {
+    "ESN": {
+      "spectral_radius": 0.6214907061129771,
+      "leak_rate": 0.8363174641294197,
+      "input_scaling": 0.1316522447241772,
+      "bias_scaling": 0.5495936876730595,
+      "ridge": 1.6613950261316453e-10,
+      "n_units": 400,
+      "topology_kwargs": {
+        "density": 0.02
+      },
+      "washout": 200
+    },
+    "ESN-Q": {
+      "spectral_radius": 0.6214907061129771,
+      "leak_rate": 0.8363174641294197,
+      "input_scaling": 0.1316522447241772,
+      "bias_scaling": 0.5495936876730595,
+      "ridge": 1.6613950261316453e-10,
+      "n_units": 400,
+      "topology_kwargs": {
+        "density": 0.02
+      },
+      "washout": 200
+    },
+    "DeepESN": {
+      "spectral_radius": 0.6214907061129771,
+      "leak_rate": 0.8363174641294197,
+      "input_scaling": 0.1316522447241772,
+      "bias_scaling": 0.5495936876730595,
+      "ridge": 1.6613950261316453e-10,
+      "n_units": 200,
+      "topology_kwargs": {
+        "density": 0.04
+      },
+      "washout": 200
+    },
+    "NG-RC": {
+      "k": 2,
+      "s": 3,
+      "degree": 3,
+      "ridge": 1.983519683109823e-09,
+      "predict_increment": false
+    }
+  },
+  "tent": {
+    "ESN": {
+      "spectral_radius": 0.08306241461604032,
+      "leak_rate": 0.689786892795292,
+      "input_scaling": 1.377866797106216,
+      "bias_scaling": 0.8268253295567211,
+      "ridge": 0.0012138419253585006,
+      "n_units": 400,
+      "topology_kwargs": {
+        "density": 0.02
+      },
+      "washout": 200
+    },
+    "ESN-Q": {
+      "spectral_radius": 0.4726146094069158,
+      "leak_rate": 0.5978647304403044,
+      "input_scaling": 1.7555368372597144,
+      "bias_scaling": 0.774664134923732,
+      "ridge": 0.00021333965349778068,
+      "n_units": 400,
+      "topology_kwargs": {
+        "density": 0.02
+      },
+      "washout": 200
+    },
+    "DeepESN": {
+      "spectral_radius": 0.16009603344074214,
+      "leak_rate": 0.8624656255727167,
+      "input_scaling": 1.0558372698123164,
+      "bias_scaling": 0.8765370964165805,
+      "ridge": 5.960432236166281e-07,
+      "n_units": 200,
+      "topology_kwargs": {
+        "density": 0.04
+      },
+      "washout": 200
+    },
+    "NG-RC": {
+      "k": 2,
+      "s": 3,
+      "degree": 3,
+      "ridge": 1.983519683109823e-09,
+      "predict_increment": false
+    }
+  },
+  "henon": {
+    "ESN": {
+      "spectral_radius": 0.16009603344074214,
+      "leak_rate": 0.8624656255727167,
+      "input_scaling": 1.0558372698123164,
+      "bias_scaling": 0.8765370964165805,
+      "ridge": 5.960432236166281e-07,
+      "n_units": 400,
+      "topology_kwargs": {
+        "density": 0.02
+      },
+      "washout": 200
+    },
+    "ESN-Q": {
+      "spectral_radius": 0.16009603344074214,
+      "leak_rate": 0.8624656255727167,
+      "input_scaling": 1.0558372698123164,
+      "bias_scaling": 0.8765370964165805,
+      "ridge": 5.960432236166281e-07,
+      "n_units": 400,
+      "topology_kwargs": {
+        "density": 0.02
+      },
+      "washout": 200
+    },
+    "DeepESN": {
+      "spectral_radius": 0.6214907061129771,
+      "leak_rate": 0.8363174641294197,
+      "input_scaling": 0.1316522447241772,
+      "bias_scaling": 0.5495936876730595,
+      "ridge": 1.6613950261316453e-10,
+      "n_units": 200,
+      "topology_kwargs": {
+        "density": 0.04
+      },
+      "washout": 200
+    },
+    "NG-RC": {
+      "k": 2,
+      "s": 3,
+      "degree": 3,
+      "ridge": 1.983519683109823e-09,
+      "predict_increment": false
+    }
+  },
+  "mackey_glass": {
+    "ESN": {
+      "spectral_radius": 1.0737129137051549,
+      "leak_rate": 0.3917975801679797,
+      "input_scaling": 0.3837577637055924,
+      "bias_scaling": 0.38098153929308753,
+      "ridge": 1.1270507208683115e-07,
+      "n_units": 400,
+      "topology_kwargs": {
+        "density": 0.02
+      },
+      "washout": 200
+    },
+    "ESN-Q": {
+      "spectral_radius": 1.0737129137051549,
+      "leak_rate": 0.3917975801679797,
+      "input_scaling": 0.3837577637055924,
+      "bias_scaling": 0.38098153929308753,
+      "ridge": 1.1270507208683115e-07,
+      "n_units": 400,
+      "topology_kwargs": {
+        "density": 0.02
+      },
+      "washout": 200
+    },
+    "DeepESN": {
+      "spectral_radius": 1.0737129137051549,
+      "leak_rate": 0.3917975801679797,
+      "input_scaling": 0.3837577637055924,
+      "bias_scaling": 0.38098153929308753,
+      "ridge": 1.1270507208683115e-07,
+      "n_units": 200,
+      "topology_kwargs": {
+        "density": 0.04
+      },
+      "washout": 200
+    },
+    "NG-RC": {
+      "k": 4,
+      "s": 5,
+      "degree": 3,
+      "ridge": 2.1873158187182215e-06,
+      "predict_increment": true
+    }
+  },
+  "lorenz": {
+    "ESN": {
+      "spectral_radius": 0.6214907061129771,
+      "leak_rate": 0.8363174641294197,
+      "input_scaling": 0.1316522447241772,
+      "bias_scaling": 0.5495936876730595,
+      "ridge": 1.6613950261316453e-10,
+      "n_units": 400,
+      "topology_kwargs": {
+        "density": 0.02
+      },
+      "washout": 200
+    },
+    "ESN-Q": {
+      "spectral_radius": 0.6214907061129771,
+      "leak_rate": 0.8363174641294197,
+      "input_scaling": 0.1316522447241772,
+      "bias_scaling": 0.5495936876730595,
+      "ridge": 1.6613950261316453e-10,
+      "n_units": 400,
+      "topology_kwargs": {
+        "density": 0.02
+      },
+      "washout": 200
+    },
+    "DeepESN": {
+      "spectral_radius": 0.6214907061129771,
+      "leak_rate": 0.8363174641294197,
+      "input_scaling": 0.1316522447241772,
+      "bias_scaling": 0.5495936876730595,
+      "ridge": 1.6613950261316453e-10,
+      "n_units": 200,
+      "topology_kwargs": {
+        "density": 0.04
+      },
+      "washout": 200
+    },
+    "NG-RC": {
+      "k": 3,
+      "s": 1,
+      "degree": 3,
+      "ridge": 6.175886814166169e-07,
+      "predict_increment": true
+    }
+  },
+  "rossler": {
+    "ESN": {
+      "spectral_radius": 1.1381482051616167,
+      "leak_rate": 0.6488018676713043,
+      "input_scaling": 0.10627318823749264,
+      "bias_scaling": 0.7607887845834825,
+      "ridge": 1.6288323688672337e-10,
+      "n_units": 400,
+      "topology_kwargs": {
+        "density": 0.02
+      },
+      "washout": 200
+    },
+    "ESN-Q": {
+      "spectral_radius": 0.6214907061129771,
+      "leak_rate": 0.8363174641294197,
+      "input_scaling": 0.1316522447241772,
+      "bias_scaling": 0.5495936876730595,
+      "ridge": 1.6613950261316453e-10,
+      "n_units": 400,
+      "topology_kwargs": {
+        "density": 0.02
+      },
+      "washout": 200
+    },
+    "DeepESN": {
+      "spectral_radius": 1.1381482051616167,
+      "leak_rate": 0.6488018676713043,
+      "input_scaling": 0.10627318823749264,
+      "bias_scaling": 0.7607887845834825,
+      "ridge": 1.6288323688672337e-10,
+      "n_units": 200,
+      "topology_kwargs": {
+        "density": 0.04
+      },
+      "washout": 200
+    },
+    "NG-RC": {
+      "k": 3,
+      "s": 3,
+      "degree": 3,
+      "ridge": 0.0005987863193376803,
+      "predict_increment": false
+    }
+  }
+}
