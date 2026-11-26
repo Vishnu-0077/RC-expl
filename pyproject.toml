@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rcexpl"
+version = "1.0.0"
+description = "Reservoir Computing and Neurochaos Learning: a research toolkit with reproducible experiments"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Vishnu" }]
+license = { text = "MIT" }
+dependencies = ["numpy>=1.26", "scipy>=1.11", "scikit-learn>=1.4", "matplotlib>=3.8"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
